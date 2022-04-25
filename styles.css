@@ -1,0 +1,20 @@
+* {
+    background-color: black;
+    font-family: Helvetica, sans-sarif;
+    color: antiquewhite;
+}
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+h2 {
+    text-align: center;
+    font-style: italic;
+}
+
+h3 {
+    text-align: center;
+    font-style: italic;
+}
